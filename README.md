@@ -1,2 +1,2 @@
-# ML-projects
+# Meta-Scifor Projects
 Internship projects
